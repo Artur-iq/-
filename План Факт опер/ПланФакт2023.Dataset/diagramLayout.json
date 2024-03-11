@@ -1,0 +1,226 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 156.51104099999748,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 290.53600400000028
+          },
+          "nodeIndex": "5999",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 425.88068199999987,
+            "y": 1031.048502000001
+          },
+          "nodeIndex": "Справочник ПФ",
+          "size": {
+            "height": 284.40092699999997,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 865.13044200000024
+          },
+          "nodeIndex": "Календарь",
+          "size": {
+            "height": 327.55239200000028,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 542.50263199999972,
+            "y": 0
+          },
+          "nodeIndex": "План2021",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1130.2888759999998,
+            "y": 0
+          },
+          "nodeIndex": "План2022",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 1943.5901010000005,
+            "y": 262.19102800000024
+          },
+          "nodeIndex": "План",
+          "size": {
+            "height": 248.00927000000013,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 813.3889089999991,
+            "y": 0
+          },
+          "nodeIndex": "План2023",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1482.5150139999992,
+            "y": 451.74805500000048
+          },
+          "nodeIndex": "Деп-Отдел",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 999.5088559999981,
+            "y": 506.66644600000052
+          },
+          "nodeIndex": "Статья_04",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 1171.9803220637496,
+            "y": 253.33322300000026
+          },
+          "nodeIndex": "Статья_05",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1014.9413339999976,
+            "y": 712.16752200000076
+          },
+          "nodeIndex": "Статья_06",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 454.37963899999875,
+            "y": 407.45903000000038
+          },
+          "nodeIndex": "Факт",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 906.12646899999891,
+            "y": 983.21635500000093
+          },
+          "nodeIndex": "Статья_02",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 1351.4182749999986,
+            "y": 933.612647000001
+          },
+          "nodeIndex": "Статья_03",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 2259.2,
+            "y": 0
+          },
+          "nodeIndex": "_Measures",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 173.90177099999732,
+            "y": 21.258732000000023
+          },
+          "nodeIndex": "16_3520",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1734.1882799999994,
+            "y": 1121.3981130000011
+          },
+          "nodeIndex": "План-Факт история с 2011 г",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Все таблицы",
+      "zoomValue": 56.447393005377691,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Все таблицы",
+  "defaultDiagram": "Все таблицы"
+}
